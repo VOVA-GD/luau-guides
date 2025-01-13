@@ -1,0 +1,1 @@
+game:GetService("InsertService"):LoadAsset("Id accessory").Parent = workspace.NPC
