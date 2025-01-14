@@ -1,3 +1,3 @@
 Workspace.part.Toched:connect(function())
-   Workspace.part.Destroy
+   Workspace.part:Destroy
 end
