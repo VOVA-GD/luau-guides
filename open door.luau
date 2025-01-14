@@ -1,3 +1,3 @@
-Workspace.button.click.mouseonclick:connect(function())
-   Workspace.door.Destroy
-end
+script.Parent.MouseClick:Connect(function ()
+	workspace.Part2:Destroy()
+end)
